@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tag
+  m_Shader: {fileID: 10721, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: DR_CEL_EXTRA_ON DR_GRADIENT_ON DR_SPECULAR_ON _ALPHABLEND_ON _CELPRIMARYMODE_SINGLE _GLOSSYREFLECTIONS_OFF _SPECULARHIGHLIGHTS_OFF _TEXTUREBLENDINGMODE_ADD _UNITYSHADOWMODE_COLOR
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 163a257057c0a2149ba5c905a9070f6b, type: 3}
+        m_Scale: {x: 1.5, y: 1.6}
+        m_Offset: {x: -0.25, y: -0.25}
+    m_Floats:
+    - _BlendOp: 0
+    - _BumpScale: 1
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _CelExtraEnabled: 1
+    - _CelNumSteps: 4
+    - _CelPrimaryMode: 1
+    - _ColorMode: 0
+    - _Cull: 2
+    - _Cutoff: 1
+    - _DetailNormalMapScale: 1
+    - _DistortionBlend: 0.5
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 1
+    - _DistortionStrengthScaled: 0
+    - _DstBlend: 10
+    - _EmissionEnabled: 0
+    - _FlatRimEdgeSmoothness: 1
+    - _FlatRimLightAlign: 0.5
+    - _FlatRimSize: 0.5
+    - _FlatSpecularEdgeSmoothness: 0.5
+    - _FlatSpecularSize: 0.5
+    - _Flatness: 1
+    - _FlatnessExtra: 0.488
+    - _FlipbookMode: 0
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _GradientAngle: 0
+    - _GradientCenterX: 0
+    - _GradientCenterY: -10
+    - _GradientEnabled: 1
+    - _GradientSize: 25
+    - _LightContribution: 0
+    - _LightingEnabled: 0
+    - _Metallic: 0.5
+    - _Mode: 2
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RimEnabled: 0
+    - _SelfShadingSize: 0.5
+    - _SelfShadingSizeExtra: 0.46
+    - _ShadowEdgeSize: 0.5
+    - _ShadowEdgeSizeExtra: 0.277
+    - _SmoothnessTextureChannel: 0
+    - _SoftParticlesEnabled: 0
+    - _SoftParticlesFarFadeDistance: 1
+    - _SoftParticlesNearFadeDistance: 0
+    - _SpecularEnabled: 1
+    - _SpecularHighlights: 0
+    - _SrcBlend: 5
+    - _TextureBlendingMode: 1
+    - _TextureImpact: 0
+    - _UVSec: 0
+    - _UnityShadowMode: 2
+    - _UnityShadowPower: 1
+    - _UnityShadowSharpness: 1
+    - _VertexColorsEnabled: 0
+    - _ZWrite: 0
+    m_Colors:
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorAddSubDiff: {r: -1, g: 1, b: 0, a: 0}
+    - _ColorDim: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _ColorDimCurve: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorDimExtra: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorDimSteps: {r: 0.3867925, g: 0.3867925, b: 0.3867925, a: 1}
+    - _ColorGradient: {r: 0.1457369, g: 0.1735765, b: 0.2358491, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FlatRimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FlatSpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecColor: {r: 0, g: 0, b: 0, a: 1}
+    - _UnityShadowColor: {r: 0.1886792, g: 0.0383338, b: 0, a: 1}
