@@ -31,6 +31,9 @@ ScriptsOnlyBuild:
     - GitHub.Unity.GitUserCache
     - GitHub.Unity.RepositoryInfoCache
     - GitHub.Unity.Window
+    Unity.CollabProxy.Editor.dll:
+    - Unity.Cloud.Collaborate.UserInterface.CollaborateWindow
+    - Unity.Cloud.Collaborate.UserInterface.WindowCache
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -109,77 +112,77 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1498}
-    - Class: 114
       Script: {instanceID: 1500}
     - Class: 114
-      Script: {instanceID: 1522}
+      Script: {instanceID: 1502}
     - Class: 114
-      Script: {instanceID: 1558}
+      Script: {instanceID: 1524}
     - Class: 114
-      Script: {instanceID: 1590}
+      Script: {instanceID: 1560}
     - Class: 114
-      Script: {instanceID: 1686}
+      Script: {instanceID: 1592}
     - Class: 114
-      Script: {instanceID: 1766}
+      Script: {instanceID: 1688}
     - Class: 114
       Script: {instanceID: 1768}
     - Class: 114
-      Script: {instanceID: 1866}
+      Script: {instanceID: 1770}
     - Class: 114
-      Script: {instanceID: 2024}
+      Script: {instanceID: 1868}
     - Class: 114
-      Script: {instanceID: 2034}
+      Script: {instanceID: 2026}
     - Class: 114
-      Script: {instanceID: 2146}
+      Script: {instanceID: 2036}
     - Class: 114
-      Script: {instanceID: 2162}
+      Script: {instanceID: 2148}
     - Class: 114
-      Script: {instanceID: 2262}
+      Script: {instanceID: 2164}
     - Class: 114
-      Script: {instanceID: 2318}
+      Script: {instanceID: 2264}
     - Class: 114
-      Script: {instanceID: 2410}
+      Script: {instanceID: 2320}
     - Class: 114
-      Script: {instanceID: 2428}
+      Script: {instanceID: 2412}
     - Class: 114
-      Script: {instanceID: 2516}
+      Script: {instanceID: 2430}
     - Class: 114
-      Script: {instanceID: 2544}
+      Script: {instanceID: 2518}
     - Class: 114
-      Script: {instanceID: 2558}
+      Script: {instanceID: 2546}
     - Class: 114
-      Script: {instanceID: 2566}
+      Script: {instanceID: 2560}
     - Class: 114
-      Script: {instanceID: 2592}
+      Script: {instanceID: 2568}
     - Class: 114
-      Script: {instanceID: 2672}
+      Script: {instanceID: 2594}
     - Class: 114
-      Script: {instanceID: 2678}
+      Script: {instanceID: 2674}
     - Class: 114
-      Script: {instanceID: 2856}
+      Script: {instanceID: 2680}
     - Class: 114
-      Script: {instanceID: 2936}
+      Script: {instanceID: 2858}
     - Class: 114
-      Script: {instanceID: 3038}
+      Script: {instanceID: 2938}
     - Class: 114
-      Script: {instanceID: 3336}
+      Script: {instanceID: 3040}
     - Class: 114
-      Script: {instanceID: 3368}
+      Script: {instanceID: 3338}
     - Class: 114
-      Script: {instanceID: 3644}
+      Script: {instanceID: 3370}
     - Class: 114
-      Script: {instanceID: 3652}
+      Script: {instanceID: 3646}
     - Class: 114
-      Script: {instanceID: 3738}
+      Script: {instanceID: 3654}
     - Class: 114
-      Script: {instanceID: 3762}
+      Script: {instanceID: 3740}
     - Class: 114
-      Script: {instanceID: 3854}
+      Script: {instanceID: 3764}
     - Class: 114
-      Script: {instanceID: 3952}
+      Script: {instanceID: 3856}
     - Class: 114
-      Script: {instanceID: 4106}
+      Script: {instanceID: 3954}
+    - Class: 114
+      Script: {instanceID: 4108}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
